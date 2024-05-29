@@ -1,0 +1,13 @@
+1. The term "pseudo-class" in CSS refers to a keyword added to selectors that specifies a special state of the selected elements. It's called "pseudo" because it's not a real class added to the HTML elements in the markup. Instead, it's a keyword used in CSS selectors to style elements based on certain conditions or states. These conditions or states could be user interactions like hovering over an element, the element's position in the document tree, or even its relationship with other elements.
+
+2. **Gradients in CSS**:
+   Gradients are CSS properties used to create smooth transitions between two or more specified colors. They allow you to create visually appealing backgrounds, borders, or text effects without using images. There are two main types of gradients:
+   - **Linear Gradients**: These gradients transition colors in a straight line either horizontally, vertically, or at any angle specified. You can define the starting point, direction, and color stops for the gradient.
+   - **Radial Gradients**: Radial gradients transition colors outward from a specified center point, creating a circular or elliptical gradient effect. You can define the shape, size, position, and color stops for the gradient.
+
+3. **Different Types of Transitions in CSS**:
+   There are several types of transitions:
+   - **Property Transitions**: These transitions animate the change of a single CSS property over time. For example, you can transition the color of a button when it's hovered over.
+   - **Duration Transitions**: This defines the length of time over which the transition occurs. You specify the duration in seconds or milliseconds.
+   - **Timing Function Transitions**: Timing functions control the rate of change of the CSS properties during the transition. Common timing functions include linear, ease-in, ease-out, and ease-in-out.
+  
